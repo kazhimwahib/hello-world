@@ -1,2 +1,5 @@
 # hello-world
-Just another repositories
+
+Hello Humans!
+
+It's me, I wanna learn javascript and node.js
